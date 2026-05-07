@@ -13,7 +13,7 @@ class BorrowServiceApplicationTests {
 
     @Test
     void contextLoads() {
-        StudentBorrowDetail studentBorrowDetailByUid = borrowService.getStudentBorrowDetailByUid(2);
+        StudentBorrowDetail studentBorrowDetailByUid = borrowService.getStudentBorrowDetailBySid(2);
         System.out.println(studentBorrowDetailByUid);
     }
 
