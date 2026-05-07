@@ -6,5 +6,5 @@ import com.heideng.entity.Borrow;
 
 
 public interface BorrowService extends IService<Borrow> {
-    StudentBorrowDetail getStudentBorrowDetailBySid(int uid);
+    StudentBorrowDetail getStudentBorrowDetailBySid(long uid);
 }

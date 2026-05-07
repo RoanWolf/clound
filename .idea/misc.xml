@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="55146cdf-3fd2-4393-b0e9-2e1caf418661" />
-  </component>
   <component name="Kotlin2JsCompilerArguments">
     <option name="moduleKind" value="plain" />
   </component>
