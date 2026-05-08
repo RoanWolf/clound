@@ -12,4 +12,5 @@ public class Student {
     private Long id;
     private String name;
     private Integer age;
+    private int bookCount;
 }
